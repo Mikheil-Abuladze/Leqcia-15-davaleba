@@ -12,3 +12,6 @@ const sentence =
   favouriteactivity;
 
 console.log(sentence);
+
+const sentence2 = `Hi, my name is ${myname}! Today is ${dayoftheweek}, a perfect day for${favouriteactivity}`;
+console.log(sentence2);
